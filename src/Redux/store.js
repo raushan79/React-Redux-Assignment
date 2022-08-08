@@ -1,5 +1,5 @@
 import { combineReducers ,legacy_createStore as createStore } from "redux";
-import { dataReducer } from "./reducer";
+import {dataReducer} from "./reducer";
 
 
 const rootReducer=combineReducers({
