@@ -1,0 +1,33 @@
+{
+  "countries": [
+    {
+      "countrie" :"India"
+    },
+    {
+      "countrie" :"SriLanka"
+    },
+    {
+      "countrie" :"USA"
+    }
+  ],
+  "citylist": [
+    {
+      "id": 1,
+      "countrie": "India",
+      "City": "Delhi",
+      "Population" :"19,000,000"
+    },
+    {
+      "id": 2,
+      "countrie": "SriLanka",
+      "City": "Colombo",
+      "Population" :"5,600,000"
+    },
+    {
+      "id": 3,
+      "countrie": "USA",
+      "City": "Chicago",
+      "Population" :"2,920,000"
+    }
+  ]
+}
